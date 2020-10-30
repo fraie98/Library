@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configurazione>
+	<maxRigheDaVisualizzare>10</maxRigheDaVisualizzare>
+	<fontTitolo>Vivaldi</fontTitolo>
+	<font>Helvetica</font>
+	<dim_X>1000</dim_X>
+	<dim_Y>950</dim_Y>
+	<backgroundColor>#ebf7da</backgroundColor>
+	<buttonColor>#46a4f2</buttonColor>
+	<buttonFontColor>white</buttonFontColor> 
+	<maxGeneriTorta>3</maxGeneriTorta>
+	<sogliaRosso>1</sogliaRosso> 
+	<sogliaArancione>2</sogliaArancione> 
+	<ipClient>192.168.1.1</ipClient> 
+	<ipServerLog>localhost</ipServerLog> 
+	<portaServerLog>8080</portaServerLog> 
+	<periodoScadenzaStandard>4</periodoScadenzaStandard>
+</Configurazione>
+

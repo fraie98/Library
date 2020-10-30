@@ -1,0 +1,24 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="Configurazione">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="maxRigheDaVisualizzare" type="xs:integer"/>
+				<xs:element name="fontTitolo" type="xs:string"/>
+				<xs:element name="font" type="xs:string"/>
+				<xs:element name="dim_X" type="xs:integer"/>
+				<xs:element name="dim_Y" type="xs:integer"/>
+				<xs:element name="backgroundColor" type="xs:string"/>
+				<xs:element name="buttonColor" type="xs:string"/>
+				<xs:element name="buttonFontColor" type="xs:string"/>
+				<xs:element name="maxGeneriTorta" type="xs:integer"/>
+				<xs:element name="sogliaRosso" type="xs:integer"/>
+				<xs:element name="sogliaArancione" type="xs:integer"/>
+				<xs:element name="ipClient" type="xs:string"/>
+				<xs:element name="ipServerLog" type="xs:string"/>
+				<xs:element name="portaServerLog" type="xs:integer"/>
+				<xs:element name="periodoScadenzaStandard" type="xs:integer"/>		
+			</xs:sequence>	
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
