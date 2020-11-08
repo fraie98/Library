@@ -1,2 +1,2 @@
 # library
-A simple application which handle a digital library
+A simple application which handles a digital library
